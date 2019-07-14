@@ -1,4 +1,4 @@
 Git is a version control system
 git is free software 
-hello world
+Git has a mutable index called stages
 
